@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Sandbox"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"prettier.singleQuote": true
+	}
+}
